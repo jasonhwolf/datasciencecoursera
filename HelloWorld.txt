@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ## This is a markdown file
+=======
+## This is a markdown fil
+>>>>>>> 79ae2fbf049ef94607f901e2a22df155070b33ef
